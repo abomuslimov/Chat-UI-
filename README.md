@@ -1,5 +1,5 @@
 # chat_ui1
-UI design of the Messenger. From the Dribble https://dribbble.com/shots/6428387-Messenger-Mobile-Concept 
+UI design of the Messenger. The design was taken from the Dribble https://dribbble.com/shots/6428387-Messenger-Mobile-Concept 
 
 ## Getting Started
 
