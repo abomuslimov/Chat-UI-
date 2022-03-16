@@ -1,6 +1,5 @@
 # chat_ui1
-
-A new Flutter application.
+UI design of the Messenger. From the Dribble https://dribbble.com/shots/6428387-Messenger-Mobile-Concept 
 
 ## Getting Started
 
